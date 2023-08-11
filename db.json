@@ -1,0 +1,22 @@
+{
+    "contacts": [
+        {
+            "id": 1,
+            "name": "Najla",
+            "phone": 777777777,
+            "email": "n@gmail.com"
+        },
+        {
+            "id": 2,
+            "name": "Njnj",
+            "phone": 777777777,
+            "email": "nj@gmail.com"
+        },
+        {
+            "id": 3,
+            "name": "Neejo",
+            "phone": 777333777,
+            "email": "ne@gmail.com"
+        }
+    ]
+}
