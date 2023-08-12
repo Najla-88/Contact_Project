@@ -11,6 +11,7 @@ data = getDataFormJsonFile("db.json")
 
 def addNewData():
     # get the last id and increase it for the new ID
+    # TODO: add validations ...
     id = data['contacts'][-1]["id"] + 1 
     name = input("Enter Name: ")
     phone = int(input("Enter Phone Number: "))
